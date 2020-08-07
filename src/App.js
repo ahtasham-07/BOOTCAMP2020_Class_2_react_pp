@@ -4,9 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+	<header className="App-header">
         <p className="App-link">
           Edit by AHTASHAM ALI
         </p>
+	</header>
     </div>
   );
 }
