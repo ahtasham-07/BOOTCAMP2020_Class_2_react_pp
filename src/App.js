@@ -12,14 +12,6 @@ function App() {
           <br/>
           Edit by AHTASHAM ALI
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
